@@ -1,0 +1,6 @@
+@GlassNomad_Api.Api_HostAddress = http://localhost:5058
+
+GET {{GlassNomad_Api.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

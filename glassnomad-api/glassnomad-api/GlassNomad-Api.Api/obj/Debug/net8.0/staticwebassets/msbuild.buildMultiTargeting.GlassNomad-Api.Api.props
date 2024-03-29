@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/GlassNomad-Api.Api.props" />
+</Project>

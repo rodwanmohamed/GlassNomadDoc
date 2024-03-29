@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassNomad-Api.Domain", "GlassNomad-Api.Domain\GlassNomad-Api.Domain.csproj", "{E827C36D-7001-4522-8144-D0B6CB99708E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassNomad-Api.Api", "GlassNomad-Api.Api\GlassNomad-Api.Api.csproj", "{E757F3BE-70AB-48CD-AA22-253FD1494A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E827C36D-7001-4522-8144-D0B6CB99708E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E827C36D-7001-4522-8144-D0B6CB99708E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E827C36D-7001-4522-8144-D0B6CB99708E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E827C36D-7001-4522-8144-D0B6CB99708E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E757F3BE-70AB-48CD-AA22-253FD1494A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E757F3BE-70AB-48CD-AA22-253FD1494A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E757F3BE-70AB-48CD-AA22-253FD1494A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E757F3BE-70AB-48CD-AA22-253FD1494A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
